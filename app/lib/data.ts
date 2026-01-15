@@ -1,5 +1,4 @@
 import postgres from "postgres";
-import { useEffect } from "react";
 import {
   CustomerField,
   CustomersTableType,
